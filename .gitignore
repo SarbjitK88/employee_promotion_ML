@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model artefacts
+*.joblib
+*.pkl
+*.json
+
+# IDE / OS junk
+.DS_Store
+.vscode/
+.idea/
+
+# Data and output zips
+*.zip
