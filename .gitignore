@@ -7,11 +7,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Model artefacts
-*.joblib
-*.pkl
-*.json
-
 # IDE / OS junk
 .DS_Store
 .vscode/
